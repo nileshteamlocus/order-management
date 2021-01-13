@@ -1,0 +1,3 @@
+.modal-dialog{max-width: 70% !important;}
+.btn-dark, .btn-secondary{float: left;padding: 7px 13px !important;margin-right: 5px;}
+.modal-footer { border-top: none; padding-right: 0px!important;}

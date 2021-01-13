@@ -1,0 +1,9 @@
+#void_order_p  textarea          { width: 100%; }
+#void_order_p .first-column      { width: 200px; }
+#void_order_p .modal-dialog      { max-width: 600px; }
+#void_order_p .footer-div        { width: 100%; float: left;text-align: center; }
+#void_order_p .footer-div button { margin: 0 auto;float: none; }
+#void_order_p .first             { width: 23%; float: left; padding: 10px 0; }
+#void_order_p .c-data            { width: 23%; float: left; padding: 10px 0; }
+#void_order_p .c-input           { width: 76%; float: left; padding: 10px 0;}
+#void_order_p  textarea          { height: 150px; }
